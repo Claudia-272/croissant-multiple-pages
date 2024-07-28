@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(195, 195, 118);
+}
+
+h1,
+h3 {
+  text-align: center;
+}
+
+h1 {
+  color: rgb(104, 58, 58);
+}
+img {
+  display: block;
+  width: 600px;
+}
